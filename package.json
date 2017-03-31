@@ -27,7 +27,9 @@
   ],
   "dependencies": {
     "execa": "^0.6.0",
-    "prettier": "^0.21.0"
+    "lodash": "^4.17.4",
+    "prettier": "^0.21.0",
+    "rcfile": "^1.0.3"
   },
   "devDependencies": {
     "ava": "^0.17.0"
